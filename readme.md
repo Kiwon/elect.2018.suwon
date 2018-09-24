@@ -18,7 +18,7 @@
 
 
 
-![map](/home/kiwon/MEGA/elect.2018.지방선거.7/expense.suwon/map.suwonelect.basic.png)
+![map](./map.suwonelect.basic.png)
 
 #### 장안구
 
